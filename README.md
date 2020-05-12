@@ -17,3 +17,5 @@ Consignas:
       5. Sincronizar los cambios con el repo (propio) remoto.
 
 4. Iniciar un __Pull Request__ al repositorio del que se hizo el fork inicial.
+
+
