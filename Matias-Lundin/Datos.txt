@@ -1,5 +1,0 @@
-Nombres: Juan Matias
-Apellido: Lundin
-Nro. de legajo:
-	ASC: 905794
-	PUC: PC00185
