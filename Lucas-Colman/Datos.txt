@@ -1,5 +1,0 @@
-Nombres: Lucas Hernan
-Apellido: Colman
-Legajos:
-	ASC: 905906
-	LSI: LS00945
