@@ -1,4 +1,0 @@
-Nombre: Lazaro
-Apellido: Martinez
-Numero de legajo: LS01075
-datos en carpeta laza-martinez
