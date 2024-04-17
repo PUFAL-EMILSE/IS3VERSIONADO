@@ -1,4 +1,0 @@
-Nombre: Ricardo Hernán
-Apellido: Lovera
-DNI: 45.135.060
-Telefono: 3764211364
